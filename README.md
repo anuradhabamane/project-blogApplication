@@ -9,4 +9,4 @@ db.php
 Define the endpoints for the CRUD app
 Create react app and define the frontend
 Integrate the front end and backend
-open browser type :localhost/blog/
+open browser type :localhost/kblog/
